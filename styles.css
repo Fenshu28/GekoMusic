@@ -1,0 +1,32 @@
+#black-bg-cont{
+	color: black;
+}
+
+.white-bg{ 
+	color: black;
+}
+
+.black-bg{
+	color: white;
+}
+
+.select-color{
+	color: aqua;
+}
+
+.separator{
+	background: rgba(180,211,211,0.3);
+}
+
+.background-trans{
+	background: rgba(1,1,1,0);
+	border-style: none;
+	border-top-style: none;
+}
+
+.entry-text{
+	color: white;
+	background: rgba(1,1,1,0);
+	border-style: none;
+    border-top-style: none;
+}
